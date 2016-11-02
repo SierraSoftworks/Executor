@@ -3,7 +3,7 @@ package shells
 import (
 	"path"
 
-	"github.com/EMSSConsulting/Executor"
+	"github.com/SierraSoftworks/Executor"
 )
 
 // TestShell provides an example shell which allows you to provide runtime methods

@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/EMSSConsulting/Executor"
+	"github.com/SierraSoftworks/Executor"
 )
 
 // ShellAbstract represents a shell which can be used by executor to run scripts.

@@ -22,7 +22,7 @@ package main
 import (
     "os"
 
-    executor "github.com/EMSSConsulting/Executor"
+    executor "github.com/SierraSoftworks/Executor"
 )
 
 func main() {

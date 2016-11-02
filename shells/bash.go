@@ -3,7 +3,7 @@ package shells
 import (
 	"path"
 
-	"github.com/EMSSConsulting/Executor"
+	"github.com/SierraSoftworks/Executor"
 )
 
 // Bash provides a shell instance which will run tasks using the Unix bash shell.

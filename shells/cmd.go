@@ -3,7 +3,7 @@ package shells
 import (
 	"path"
 
-	"github.com/EMSSConsulting/Executor"
+	"github.com/SierraSoftworks/Executor"
 )
 
 // CommandPrompt provides a shell instance which will run tasks using the Windows
